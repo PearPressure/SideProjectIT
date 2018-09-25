@@ -3,5 +3,5 @@ Detta projekt skall innehålla en hemsida/program som underlättar för IT sekti
 
 Collaborators: 
 	GIFF
-	ATTo
+	ATTO
 
